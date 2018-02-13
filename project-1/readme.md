@@ -8,3 +8,5 @@ When visiting the UM website using the Wayback Machine I went back to the first 
 
 ## Work Cycle
 Now that I am more familiar with GitHub and Atom, developing this webpage was much easier and way less stressful than last weeks assignment, other than the one small hiccup in the process. In which case, continuing project-1 through Firefox was more reliable.
+
+![Image of my progress](./images/workdevelopment.png)
