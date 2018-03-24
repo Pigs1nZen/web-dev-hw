@@ -24,15 +24,17 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
   body {
-    background-image: url(./images/madpop.jpg);
+    background-image: url("./images/madpop.jpg");
     background-size: auto;
-    background-position: right;
+    background-position: center right;
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+    .behind-text {
+        background-color: white;
     }
   .container {
-    width: 600px;
+    width: 400px;
     margin: auto;
     padding: 20px;
     border: 1px solid black;
@@ -41,24 +43,27 @@ tr:nth-child(even) {
     font-family: arial;
     font-size: small;
   }
+  .intro {
+    background-image: url("./images/ollie.jpg");
+    background-size: auto;
+  }
   </style>
   </head>
 <body>
   <a href="./index.html">Home</a>
   <a href="./pages/about.html">About</a>
   <a href="./pages/contact.html">Contact</a>
-<div id="intro" class="container">
+<div id="intro" class="container" "behind-text">
   <h1>How to do an Ollie</h1>
   <h3>By: Colin Smith</h3>
   <p>Invented by Alan <q>Ollie</q> Gelfand in the late 1970s, the Ollie is one of the first tricks a skateboarder will learn, and is essential in order to master the extreme sport. Since its inception, the Ollie has completely changed the direction of skateboarding into the sport we now know today.
   </p>
     <br />
   <p>
-  <q><i>Alan did an ollie like no other person. No one to this day has done ollies like him, and if you saw him back then it was so effortless and no one could copy that. He was definitely an original. An originator.</i></q>- Craig Snyder, Author of <i>A Secret History of the Ollie, Volume 1: the 1970s</i>
+  <q><i>Alan did an ollie like no other person. No one to this day has done ollies like him, and if you saw him back then it was so effortless and no one could copy that. He was definitely an original. An originator.</i></q>- Craig Snyder, author of <i>A Secret History of the Ollie, Volume 1: the 1970s</i>
   </p>
     <br />
-  <img src="./images/ollie.jpg" alt="ollie" align="center" />
-  <p><i>(Ollie Gelfand back in the day performing a frontside air.)</i></p>
+    <img src="./images/ollie.jpg" alt="Ollie Gelfand performing a frontside air" />
 </div>
 
 <div id="gear" class="container" align="left">
@@ -73,7 +78,6 @@ tr:nth-child(even) {
   <br />
   <input type="checkbox" name="ollie" value="gear" /> Wrist guards
   <br />
-  <input type="checkbox" name="ollie" value="gear" checked /> Patience
 </div>
   <br />
   <br />
@@ -130,5 +134,9 @@ tr:nth-child(even) {
       </tr>
    </table>
  </div>
+ <br />
+ <p>
+   <h4>Follow all of these steps properly and before you know it you'll be ollieing in no time!</h4>
+ </p>
 </body>
 </html>

@@ -2,19 +2,20 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Contact info for how to perform an ollie">
+    <meta name="description" content="Contact info in response for how to perform an ollie">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Colin Smith">
     <meta name="keywords" content="Skateboard, Skateboarding, Ollie, How-To, Contact, Info">
   <title>Contact Info</title>
 <style>
   body {
-    background-image: url(./images/madpop.jpg);
+    background-image: url("./images/6stair.jpg");
     background-size: auto;
-    background-position: right;
+    background-position: center medium;
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+    background-color: grey;
   }
   . p, q, {
     font-family: arial;
@@ -27,7 +28,7 @@
   <br />
   <h2>Give us some feedback!</h2>
     <br />
-  <div>
+  <div id="form" class="container" align="center medium">
     <form action="server.php" method="post">
       <label for="first-name">First Name:</label>
       <input type="text" name="first-name" placeholder="First">
@@ -47,14 +48,15 @@
     <option value="yes">For sure</option>
     <option value="No">Not really</option>
     <option value="nah-man">I don't even skate soo..</option>
-  </p>
-</select>
+      </p>
+        </select>
       <p>What would you change about it?
       <br />
-<textarea name="comments" id="test-textarea" cols="30" rows="3">Enter text here...</textarea>
-</p>
+        <textarea name="comments" id="test-textarea" cols="30" rows="3"></textarea>
+      </p>
       <input type="submit" value="Submit">
     </form>
   </div>
-</body>
+    <img src="./images/6stair.jpg" alt="A skater performing an Ollie down a six-stair" align="center medium" />
+  </body>
 </html>
