@@ -4,5 +4,6 @@ HTML was very complex in my opinion (still is, kind of), but I really enjoy lear
 Frankly, I wish we could have been introduced to CSS and imaging format sooner, but I guess there's no time like the present. I was just having some issues regarding background images that made me refer to the book for assistance, and how their alignment should be.
 
 In the beginning the assignment was tough, given that it was the first webpage we've developed with only the knowledge we've obtained from the class so far. So the bulk of the layout was a little difficult with all of the necessary inclusions, but overall I had a lot of fun with this assignment because it allowed me to express myself and do my own thing. Once getting into the finer details it got to be a lot of fun. I may have gotten ahead of myself as far as CSS goes, but I think the overall aesthetics looks pretty good.
+However, I still have not been able to figure out how to throw images on my about and contact.html, nor have my links been wanting to work. If anyone can tell me what it is I'm doing wrong, that'd be awesome.
 
 ![image](./images/ScreenShot.jpg)
