@@ -5,13 +5,14 @@ body {
   background-size: auto;
   background-position: center;
   background-repeat: fixed;
-  background-color: magenta;
+  background-color: baby blue;
 
 }
 h2 {
   font-family: sans-serif;
   color: inherit;
   border: 5px pink;
+}
 p {
   background-color: #ffcc00;
   border: 5px solid #660066;
