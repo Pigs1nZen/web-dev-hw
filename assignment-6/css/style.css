@@ -1,15 +1,15 @@
 body {
   font-family: Arial;
   text-align: center;
-  background-image: url('./images/1960s-love.png')
+  background-image: url('../images/1960s-love.png')
   background-size: auto;
   background-position: center;
   background-repeat: fixed;
   background-color: baby blue;
 }
-h2 {
+h1 {
   font-family: sans-serif;
-  color: pink;
+  color: hotpink;
   border: 5px blue;
 }
 p {
