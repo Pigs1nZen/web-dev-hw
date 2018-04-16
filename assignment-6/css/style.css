@@ -2,20 +2,21 @@ body {
   font-family: Arial;
   text-align: center;
   background-image: url('../images/1960s-love.png');
-  background-size: auto;
+  background-size: 800px;
   background-position: center;
-  background-repeat: fixed;
-  background-color: baby blue;
+  background-repeat: no-repeat;
+  background-color: blue;
 }
 h1 {
   font-family: sans-serif;
   color: hotpink;
+  background-color: #CC00CC
   border: 5px blue;
 }
 p {
-  background-color: #ffcc00;
+  background-color: #FFCC00;
   border: 5px solid #660066;
 }
 box1 {
   background-color: #66B2FF
-}  
+}
