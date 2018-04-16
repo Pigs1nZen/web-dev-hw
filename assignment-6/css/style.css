@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  align-content: center;
+  text-align: center;
   background-image: url('./images/1960s-love.png)'
   background-size: auto;
   background-position: center;
@@ -10,8 +10,8 @@ body {
 }
 h2 {
   font-family: sans-serif;
-  color: inherit;
-  border: 5px pink;
+  color: pink;
+  border: 5px blue;
 }
 p {
   background-color: #ffcc00;
