@@ -1,12 +1,11 @@
 body {
   font-family: Arial;
   text-align: center;
-  background-image: url('./images/1960s-love.png)'
+  background-image: url('./images/1960s-love.png')
   background-size: auto;
   background-position: center;
   background-repeat: fixed;
   background-color: baby blue;
-
 }
 h2 {
   font-family: sans-serif;
