@@ -17,6 +17,7 @@ img {
   opacity: 1;
 }
 p {
+  font-size: large;
   background-color: #FFCC00;
   border: 5px solid #660066;
 }
@@ -24,7 +25,7 @@ p {
 .box1 {
 /* This is a comment */
   background-image: url('../images/1960s-05.png');
-  background-position: left;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: 800px;
 }
