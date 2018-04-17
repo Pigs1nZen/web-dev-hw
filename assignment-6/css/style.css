@@ -1,10 +1,6 @@
 body {
   font-family: Arial;
   text-align: center;
-  background-image: url('../images/1960s-love.png');
-  background-size: 300px;
-  background-position: right;
-  background-repeat: no-repeat;
   background-color: rgb(255, 255, 128);
 }
 h1 {
@@ -14,8 +10,13 @@ h1 {
   background-color: #CC00CC
   border: 5px blue;
 }
+.main {
+  background-image: url('../images/1960s-love.png');
+  background-size: 300px;
+  background-position: top right;
+  background-repeat: no-repeat;
+}
 p {
-  color: white;
   background-color: #FFCC00;
   border: 5px solid #660066;
 }
