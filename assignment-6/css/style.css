@@ -3,7 +3,7 @@ body {
   text-align: center;
   background-image: url('../images/1960s-love.png');
   background-size: auto;
-  background-position: right;
+  background-position: top right;
   background-repeat: no-repeat;
   background-color: rgb(255, 255, 128);
 }
@@ -21,4 +21,4 @@ box1 {
   background-image: url('../images/1960s-05.png');
   background-position: left;
   background-size: 800px;
-}  
+}
