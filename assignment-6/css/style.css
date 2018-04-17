@@ -13,8 +13,8 @@ h1 {
   background-color: #CC00CC
   border: 5px blue;
   background-image: url('../images/lovenotwar.jpg');
-  background-position: right;
-  background-size: 50px;
+  background-position: center;
+  background-size: 100px;
 }
 img {
   opacity: 1;
