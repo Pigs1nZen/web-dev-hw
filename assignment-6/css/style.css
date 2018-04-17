@@ -2,16 +2,14 @@
   font-family: Arial;
   background-color: rgb(255, 255, 128);
 }
-body {
+h1 {
   background-image: url('../images/1960s-love.png');
   background-size: 500px;
-  background-position: right;
+  background-position: top right;
   background-repeat: no-repeat;
   text-align: center;
-}
-h1 {
   text-align: left;
-  font-size: x-large;
+  font-size: large;
   font-family: sans-serif !important;
   color: hotpink;
   background-color: #CC00CC
