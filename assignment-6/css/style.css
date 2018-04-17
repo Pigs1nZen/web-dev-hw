@@ -12,6 +12,9 @@ h1 {
   color: hotpink;
   background-color: #CC00CC
   border: 5px blue;
+  background-image: url('../images/lovenotwar.jpg');
+  background-position: right;
+  background-size: 50px;
 }
 img {
   opacity: 1;
