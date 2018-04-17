@@ -15,14 +15,16 @@ h1 {
   border: 5px blue;
 }
 p {
+  color:
   background-color: #FFCC00;
   border: 5px solid #660066;
 }
 .image1 {
-  float: left;
-}
+  align-content: left;
+}  
 .box1 {
   background-image: url('../images/1960s-05.png');
   background-position: left;
+  background-repeat: no-repeat;
   background-size: 800px;
 }
