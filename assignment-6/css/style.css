@@ -5,7 +5,7 @@
 body {
   background-image: url('../images/1960s-love.png');
   background-size: 500px;
-  background-position: top right;
+  background-position: right;
   background-repeat: no-repeat;
   text-align: center;
 }
@@ -19,7 +19,7 @@ h1 {
 }
 img {
   opacity: 1;
-}  
+}
 p {
   background-color: #FFCC00;
   border: 5px solid #660066;
