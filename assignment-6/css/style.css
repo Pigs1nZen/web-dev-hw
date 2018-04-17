@@ -18,10 +18,10 @@ p {
   background-color: #FFCC00;
   border: 5px solid #660066;
 }
-image1 {
+.image1 {
   float: left;
 }
-box1 {
+.box1 {
   background-image: url('../images/1960s-05.png');
   background-position: left;
   background-size: 800px;
