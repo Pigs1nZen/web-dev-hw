@@ -6,13 +6,22 @@ h1, h2 {
   color: #40413E;
   text-align: center;
   font-family: cursive;
-  font-size: 220%;
+  font-size: 250%;
   font-style: normal;
   font-weight:400;
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 30px;
-  letter-spacing: -1;
+  letter-spacing: auto;
+}
+
+h6 {
+  color: #40413E;
+  text-align: center;
+  font-family: cursive;
+  font-size: 200%;
+  font-style: normal;
+  letter-spacing: auto;
 }
 
 title {
@@ -21,8 +30,8 @@ title {
 }
 
 p {
-    font-family: fantasy;
-    font-size: 100%;
+    font-family: inherit;
+    font-size: 150%;
     font-weight: lighter;
     text-align: left;
     padding-left: 200px;
