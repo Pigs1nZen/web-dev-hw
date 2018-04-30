@@ -1,12 +1,8 @@
-html {
-  padding: 2;
-}
-
 h1 {
   color: #40413E;
   text-align: center;
   font-family: cursive;
-  font-size: 250%;
+  font-size: 200%;
   font-style: normal;
   font-weight:400;
   padding-left: 100px;
@@ -19,7 +15,7 @@ h2 {
   color: #40413E;
   text-align: center;
   font-family: cursive;
-  font-size: 200%;
+  font-size: 125%;
   font-style: normal;
   letter-spacing: auto;
 }
@@ -37,4 +33,25 @@ body {
   text-align: left;
   padding-left: 200px;
   padding-right: 200px;
+}
+
+.button {
+  color: #d19527;
+  font-weight: 300;
+  text-align: center;
+  font-size: 110%;
+}
+
+.button:hover {
+  color: gray;
+
+}
+
+.button:active {
+  color: white;
+  background-color: white;
+}
+
+.button:visited {
+  color: green;
 }
