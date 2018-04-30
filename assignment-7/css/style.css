@@ -2,10 +2,10 @@ html {
   padding: 2;
 }
 
-h1 {
+h1, h2, h6 {
   color: #40413E;
   text-align: center;
-  font-family: 'Crimson Text', serif;
+  font-family: cursive;
   font-size: 220%;
   font-style: normal;
   font-weight:400;
@@ -21,12 +21,13 @@ title {
 }
 
 p {
-    font-family: Merriweather;
+    font-family: fantasy;
     font-size: 100%;
     font-weight: lighter;
     text-align: left;
     padding-left: 200px;
     padding-right: 200px;
+}
 
 body {
   padding: 2;
