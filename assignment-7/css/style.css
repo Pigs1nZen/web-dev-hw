@@ -1,0 +1,35 @@
+html {
+  padding: 2;
+}
+
+h1 {
+  color: #40413E;
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+  font-size: 220%;
+  font-style: normal;
+  font-weight:400;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  letter-spacing: -1;
+}
+
+title {
+  border: 25px groove #666666;
+  padding: 2px;
+}
+
+p {
+    font-family: Merriweather;
+    font-size: 100%;
+    font-weight: lighter;
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 200px;
+
+body {
+  padding: 2;
+  margin: 0 0 0 0;
+  background-color: #bfbfbf;
+}
