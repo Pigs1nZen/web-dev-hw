@@ -1,5 +1,5 @@
 h1 {
-  color: #40413E;
+  color: #c39bd3;
   text-align: center;
   font-family: cursive;
   font-size: 200%;
@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  color: #40413E;
+  color: #40413e;
   text-align: center;
   font-family: cursive;
   font-size: 125%;
@@ -26,7 +26,7 @@ title {
 }
 
 body {
-  background-color: #bfbfbf;
+  background-color: #f1c40f;
   font-family: cursive;
   font-size: 150%;
   font-weight: lighter;
