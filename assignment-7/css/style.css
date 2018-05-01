@@ -1,7 +1,7 @@
 h1 {
   color: #7d3c98;
   text-align: center;
-  font-family: cursive;
+  font-family: Homemade-Apple;
   font-size: 200%;
   font-style: normal;
   font-weight:400;
@@ -14,7 +14,7 @@ h1 {
 h2 {
   color: #40413e;
   text-align: center;
-  font-family: cursive;
+  font-family: Homemade-Apple;
   font-size: 125%;
   font-style: normal;
   letter-spacing: auto;
@@ -27,7 +27,7 @@ title {
 
 body {
   background-color: #f1c40f;
-  font-family: cursive;
+  font-family: Playball-Regular;
   font-size: 150%;
   font-weight: lighter;
   text-align: left;
