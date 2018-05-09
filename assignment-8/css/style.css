@@ -18,7 +18,9 @@ body {
   height: 200;
 }
 .text2{
+  text-align: right;
   position: absolute;
+  float: right;
   left: 5px;
   top: 400px;
   width: 500;
@@ -56,24 +58,6 @@ body {
   top: 100;
   width: 420;
   height: 275;
-}
-.leftdist{
-  position: absolute;
-  left: 300px;
-  top: 10px;
-  width: 550;
-  height: 500;
-  transform: rotate(-12deg);
-  z-index: 2;
-}
-.rightdist{
-  position: absolute;
-  left: 475px;
-  top: 75px;
-  width: 550;
-  height: 500;
-  transform: rotate(12deg);
-  z-index: 2;
 }
 .bottom{
   position: absolute;

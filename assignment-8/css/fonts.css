@@ -1,58 +1,43 @@
-.text1{
-  font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
+.text1 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  word-spacing: 2px;
+}
+.text2 {
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 20px;
   word-spacing: 1.5px;
 }
-
-.text2{
-  font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
-  font-weight: bold;
-  line-height: 20px;
-  word-spacing: 1.5px;
+.right {
+  font-family: 'Forte';
+  src: url('./fonts/forte.ttf');
+  font-size: 72px;
+  color: #303f44;
+  letter-spacing: 2px;
 }
-
-.leftdist{
-    font-family: 'Forte';
-    src: url('./fonts/forte.ttf');
-    font-size: 72px;
-    color: #303f44;
-    letter-spacing: 2px;
-
+.bottom {
+  font-family: 'Forte';
+  src: url('./fonts/forte.ttf');
+  font-size: 47px;
+  color: #303f44;
 }
-.right{
-    font-family: 'Forte';
-    src: url('./fonts/forte.ttf');
-    font-size: 72px;
-    color: #303f44;
-    letter-spacing: 2px;
-
-}
-.bottom{
-    font-family: 'Forte';
-    src: url('./fonts/forte.ttf');
-    font-size: 47px;
-    color: #303f44;
-  }
-
 p {
-    font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
-    font-weight: bold;
-    line-height: 20px;
-    word-spacing: 1.5px;
-  }
-
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  word-spacing: 1.5px;
+}
 .filterqueen-text{
-    font-family: 'Forte';
-    src: url('./fonts/forte.ttf');
-    font-size: 75px;
-    color: black;
-
-  }
-
+  font-family: 'Forte';
+  src: url('./fonts/forte.ttf');
+  font-size: 75px;
+  color: black;
+}
 .subtext{
-    font-family: 'Forte';
-    src: url('./fonts/forte.ttf');
-    font-size: 30px;
-    color: black;
-  }
+  font-family: 'Forte';
+  src: url('./fonts/forte.ttf');
+  font-size: 30px;
+  color: black;
+}
