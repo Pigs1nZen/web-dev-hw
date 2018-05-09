@@ -2,7 +2,7 @@ body {
   background-color: FDFDF1;
 }
 .woman {
-  position: left;
+  position: absolute;
   left: 40px;
   top: 70px;
   width: 200;

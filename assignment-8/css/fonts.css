@@ -1,18 +1,18 @@
-font.textblock1{
+.text1{
   font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
   font-weight: bold;
   line-height: 20px;
   word-spacing: 1.5px;
 }
 
-font.textblock2{
+.text2{
   font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
   font-weight: bold;
   line-height: 20px;
   word-spacing: 1.5px;
 }
 
-font.leftdist{
+.leftdist{
     font-family: 'Forte';
     src: url('./fonts/forte.ttf');
     font-size: 72px;
@@ -20,7 +20,7 @@ font.leftdist{
     letter-spacing: 2px;
 
 }
-font.rightdist{
+.right{
     font-family: 'Forte';
     src: url('./fonts/forte.ttf');
     font-size: 72px;
@@ -28,21 +28,21 @@ font.rightdist{
     letter-spacing: 2px;
 
 }
-font.bottom{
+.bottom{
     font-family: 'Forte';
     src: url('./fonts/forte.ttf');
     font-size: 47px;
     color: #303f44;
   }
 
-  p {
+p {
     font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
     font-weight: bold;
     line-height: 20px;
     word-spacing: 1.5px;
   }
 
-  font.filterqueen-text{
+.filterqueen-text{
     font-family: 'Forte';
     src: url('./fonts/forte.ttf');
     font-size: 75px;
@@ -50,7 +50,7 @@ font.bottom{
 
   }
 
-  font.subtext{
+.subtext{
     font-family: 'Forte';
     src: url('./fonts/forte.ttf');
     font-size: 30px;
