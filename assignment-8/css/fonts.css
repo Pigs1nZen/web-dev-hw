@@ -10,14 +10,18 @@
   font-size: 500px
   font-weight: bold;
   line-height: 20px;
-  word-spacing: 1.5px;
+  word-spacing: 2px;
 }
-.right {
-  font-family: 'Forte';
-  src: url('./fonts/forte.ttf');
-  font-size: 72px;
-  color: #303f44;
-  letter-spacing: 2px;
+.filterqueen-text{
+  font-family: "Gill Sans", sans-serif;
+  font-style: oblique;
+  font-size: 500px;
+  color: black;
+}
+.subtext{
+  font-family: "Gill Sans", sans-serif;
+  font-size: 30px;
+  color: black;
 }
 .bottom {
   font-family: 'Forte';
@@ -30,15 +34,4 @@ p {
   font-weight: bold;
   line-height: 20px;
   word-spacing: 2px;
-}
-.filterqueen-text{
-  font-family: "Gill Sans", sans-serif;
-  font-style: oblique;
-  font-size: 75px;
-  color: black;
-}
-.subtext{
-  font-family: "Gill Sans", sans-serif;
-  font-size: 30px;
-  color: black;
 }
