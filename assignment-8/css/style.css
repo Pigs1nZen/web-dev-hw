@@ -131,7 +131,7 @@ h2 {
   padding-left: 10px;
   border: 4px dashed black;
 }
-.sidetext {
+.sidetext .sidetext2 {
 	font-family: "Times New Roman", serif;
 	position: absolute;
 	font-size: 20px;
@@ -140,14 +140,4 @@ h2 {
 	top: 1085px;
 	width: 445px;
 	height: 155px;
-}
-.sidetext2 {
-	font-family: "Times New Roman", serif;
-	position: absolute;
-	font-size: 20px;
-	color: #303F44;
-	left: 28px;
-	top: 1575px;
-	width: 445px;
-	height: 150px;
 }
