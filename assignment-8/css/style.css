@@ -2,11 +2,11 @@ body {
   background-color: FDFDF1;
 }
 .woman {
-  position: absolute;
+  position: left;
   left: 40px;
   top: 70px;
-  width: 400;
-  height: 1000;
+  width: 200;
+  height: 500;
   z-index: 3;
 }
 .filterqueen-text{
