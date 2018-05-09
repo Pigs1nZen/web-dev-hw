@@ -10,7 +10,7 @@ body {
   z-index: 3;
 }
 .text1 .text2 {
-  text-align: center;
+  text-align: top center;
   position: absolute;
   float: right;
   z-index: 3;
@@ -145,4 +145,24 @@ h2 {
   z-index: 1;
   padding-left: 10px;
   border: 4px dashed black;
+}
+.sidetext {
+	font-family: "Times New Roman", serif;
+	position: absolute;
+	font-size: 20px;
+	color: #303F44;
+	left: 25px;
+	top: 1085px;
+	width: 445px;
+	height: 155px;
+}
+.sidetext2 {
+	font-family: "Times New Roman", serif;
+	position: absolute;
+	font-size: 20px;
+	color: #303F44;
+	left: 28px;
+	top: 1575px;
+	width: 445px;
+	height: 150px;
 }
