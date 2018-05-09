@@ -122,14 +122,10 @@ h2 {
   z-index: 1;
 }
 .coupon {
-  position: absolute;
-  left: 525px;
-  top: 1575px;
-  width: 355;
-  height: 200;
-  z-index: 1;
-  padding-left: 10px;
-  border: 4px dashed black;
+  border: 2px dashed black;
+  padding: 1em;
+  margin-right: 20%;
+  float: right;
 }
 .sidetext .sidetext2 {
 	font-family: "Times New Roman", serif;
